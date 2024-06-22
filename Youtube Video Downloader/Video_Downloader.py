@@ -8,7 +8,7 @@ from ttkbootstrap import Style
 style = Style('darkly')
 window = style.master
 window.title('Youtube Video Downloader')
-window.iconbitmap(r'C:\Users\yeshw\OneDrive\Desktop\Tkinter-Projects\Youtube Video Downloader\Download_Icon.ico')
+window.iconbitmap(r'C:\Users\yeshw\OneDrive\Desktop\Tkinter-Projects\Youtube Video Downloader\Video Download.ico')
 window.resizable(0,0)
 
 def browse_dir():

@@ -4,7 +4,7 @@ import random
 
 window = tk.Tk()
 window.title('Password Generator')
-window.iconbitmap(r'C:\Users\yeshw\OneDrive\Desktop\Tkinter-Projects\Password Generator\key.ico')
+window.iconbitmap(r'C:\Users\yeshw\OneDrive\Desktop\Tkinter-Projects\Password Generator\lock.ico')
 
 def generate(l):
     uppercase = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
