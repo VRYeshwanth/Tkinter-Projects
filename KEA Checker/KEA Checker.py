@@ -7,7 +7,7 @@ from datetime import date
 window = tk.Tk()
 window.title('KEA Checker')
 window.geometry("400x400")
-window.iconbitmap(r'C:\Users\yeshw\OneDrive\Desktop\Tkinter-Projects\KEA Checker\book icon.ico')
+window.iconbitmap(r'C:\Users\yeshw\OneDrive\Desktop\Tkinter-Projects\KEA Checker\book.ico')
 
 def format_1():
     d = date.today()
