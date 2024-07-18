@@ -9,6 +9,7 @@ window = tk.Tk()
 window.title('KEA Checker')
 window.geometry("375x425")
 window.iconbitmap(r'C:\Users\yeshw\OneDrive\Desktop\Tkinter-Projects\KEA Checker\book.ico')
+window.resizable(0,0)
 
 def format_1():
     d = date.today()
